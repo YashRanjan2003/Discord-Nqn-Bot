@@ -9,7 +9,7 @@
 - Paste Your Token in `.env` File
 - Install all the packages by typing `npm i`
 - Start the bot by typing `node index.js`
-- Now Your Bot is Ready
+- Now Your Bot is Ready ( Dont Forget To give Manage Weebhook Permission To the Bot or the bot doesn't Work )
 
 <p align="center">
   <img height="360" width="600" alt="" src="https://media.discordapp.net/attachments/828903700977811468/853591809279787028/unknown.png?width=230&height=115" />
