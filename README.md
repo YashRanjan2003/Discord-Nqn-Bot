@@ -1,6 +1,6 @@
 # Discord Nqn Bot
 - This is a simple NQN bot with JavaScript
-- Tested With Node.js
+- Tested With Node.js 
 
 ### Setup 🛠
 
